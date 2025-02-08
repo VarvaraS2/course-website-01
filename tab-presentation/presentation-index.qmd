@@ -22,7 +22,7 @@ format:
 
 ------------------------------------------------------------------------
 
-# **What is this Project About?**
+# **What is this Project About**
 
 📦 Analyzing **public perceptions of shipping** \
 📊 Creating an **interactive website/dashboard**\
