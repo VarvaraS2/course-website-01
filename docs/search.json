@@ -72,16 +72,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Add a title",
+    "title": "Welcome to The Human Side of Shipping",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
-  },
-  {
-    "objectID": "index.html#nemo-enim-ipsam",
-    "href": "index.html#nemo-enim-ipsam",
-    "title": "Add a title",
-    "section": "Nemo enim ipsam",
-    "text": "Nemo enim ipsam\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+    "text": "Have you ever thought about how your favorite things, like your morning coffee or a new pair of sneakers, actually get to you?\nBehind every delivery is a group of people working tirelessly at sea, spending months away from their families to keep the world moving.\nThis project is about them, the invisible hands who face storms, long hours, and tough conditions so that we can enjoy the things we often take for granted.\nAs you explore, take a moment to appreciate the lives and stories behind every package that arrives at your door."
   },
   {
     "objectID": "tab-one/tab-one-index.html",
@@ -105,10 +98,31 @@
     "text": "Add an image\n\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
   },
   {
-    "objectID": "tab-presentation/presentation-index.html",
-    "href": "tab-presentation/presentation-index.html",
-    "title": "Examples of presentations",
+    "objectID": "tab-iframe/iframe-index.html",
+    "href": "tab-iframe/iframe-index.html",
+    "title": "Shipping Survey",
     "section": "",
-    "text": "Here we can add links to presentations.\nFor now you can access the presentation by adjusting the URL below with your details\nhttps://YOUR-GITHUB-ACCOUNT.github.io/NAME-OF-YOUR-GIT-REPO/tab-presentation/presentation1/presentation-example.html\nSimply change my capitalized text for your: i) your github username\nii) the name of your github repo then copy the URL and paste it to visit the webpage.\nThe adjusted URL above should take you to an example of a simple Quarto presentation."
+    "text": "Please take a moment to complete this quick survey and share your thoughts on shipping!\n\nLoading…"
+  },
+  {
+    "objectID": "survey_data.html",
+    "href": "survey_data.html",
+    "title": "Survey Data Analysis",
+    "section": "",
+    "text": "Below is the interactive Studio dashboard based on the survey data."
+  },
+  {
+    "objectID": "survey_data.html#dashboard",
+    "href": "survey_data.html#dashboard",
+    "title": "Survey Data Analysis",
+    "section": "",
+    "text": "Below is the interactive Studio dashboard based on the survey data."
+  },
+  {
+    "objectID": "tab-presentation/presentation-index.html#understanding-the-impact-of-global-logistics",
+    "href": "tab-presentation/presentation-index.html#understanding-the-impact-of-global-logistics",
+    "title": "Final Project Presentation",
+    "section": "Understanding the Impact of Global Logistics",
+    "text": "Understanding the Impact of Global Logistics\n📌 Author: Varvara Sarmalli\n📌 Date: February 2025\n📌 University: CUT - Master’s in Experiential Digital Marketing"
   }
 ]

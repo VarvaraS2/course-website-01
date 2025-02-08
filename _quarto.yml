@@ -4,7 +4,7 @@ project:
   execute-dir: project
   
 website:
-  title: "Website Template"
+  title: "The Human Side of Shipping"
   navbar:
     left:
       - href: index.qmd
@@ -14,9 +14,11 @@ website:
       - href: tab-presentation/presentation-index.qmd
         text: Presentations        
       - href: tab-iframe/iframe-index.qmd
-        text: iFrame example
+        text: Shipping survey
+      - href: survey_data.qmd 
+        text: "Survey Data"
     logo: images/logo_tepak.png
-
+       
 format:
   html:
     theme:
@@ -24,4 +26,5 @@ format:
       - brand
     css: styles.css
     toc: true
+
 

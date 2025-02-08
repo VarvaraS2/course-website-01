@@ -1,12 +1,11 @@
 ---
-title: "Add a title"
+title: "Welcome to The Human Side of Shipping"
 ---
+Have you ever thought about how your favorite things, like your morning coffee or a new pair of sneakers, actually get to you? 
 
-This is a Quarto website.
+Behind every delivery is a group of people working tirelessly at sea, spending months away from their families to keep the world moving. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This project is about them, the invisible hands who face storms, long hours, and tough conditions so that we can enjoy the things we often take for granted. 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+As you explore, take a moment to appreciate the lives and stories behind every package that arrives at your door.
 
-## Nemo enim ipsam
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.

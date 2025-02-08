@@ -1,0 +1,19 @@
+---
+title: "Survey Data Analysis"
+format: html
+---
+
+## **Dashboard**
+
+Below is the interactive **Studio dashboard** based on the survey data.
+
+<iframe 
+    width="1200" 
+    height="1200" 
+    src="https://lookerstudio.google.com/embed/reporting/89454e1c-6658-42b7-9a92-517d8a90e9ed/page/nSmnE"
+    frameborder="0"
+    style="border:0"
+    allowfullscreen 
+    sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
+</iframe>
+

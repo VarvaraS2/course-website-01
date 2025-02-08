@@ -1,17 +1,55 @@
 ---
-title: "Examples of presentations"
+title: "Final Project Presentation"
+author: "Varvara Sarmalli"
+date: "2025-02-08"
+format:
+  revealjs:
+    theme: moon
+    transition: fade
+    slide-number: true
+    toc: true
+    progress: true
+    footer: "Final Project - Shipping Insights"
 ---
 
-Here we can add links to presentations.
+# **The Human Side of Shipping** 🚢
+
+## Understanding the Impact of Global Logistics
+
+📌 **Author:** Varvara Sarmalli\
+📌 **Date:** February 2025\
+📌 **University:** CUT - Master's in Experiential Digital Marketing
+
+------------------------------------------------------------------------
+
+# **What is this Project About?**
+
+📦 Analyzing **public perceptions of shipping** \
+📊 Creating an **interactive website/dashboard**\
+🛍️ Understanding **how people shop online**\
+🚚 Investigating **delivery delay experiences**
+
+------------------------------------------------------------------------
+
+# **Key Features of the Website**
+
+✅ **Survey Data Analysis** – Insights into shipping behavior\
+✅ **Visual Dashboards** – Graphs on shopping & delivery trends\
+✅ **Interactive Reports** – Users can explore real-time insights
+
+------------------------------------------------------------------------
+
+# **Thank You!** 🎉
+
+💡 **Any questions? Let’s discuss!**
+
+------------------------------------------------------------------------
 
 For now you can access the presentation by adjusting the URL below with your details
 
-https://YOUR-GITHUB-ACCOUNT.github.io/NAME-OF-YOUR-GIT-REPO/tab-presentation/presentation1/presentation-example.html
+https://github.com/VarvaraS2/course-website-01.git
 
-Simply change my capitalized text for your: 
-i) your github username   
-ii) the name of your github repo
-then copy the URL and paste it to visit the webpage. 
+Simply change my capitalized text for your: i) your github username\
+ii) the name of your github repo then copy the URL and paste it to visit the webpage.
 
 The adjusted URL above should take you to an example of a simple Quarto presentation.
-
