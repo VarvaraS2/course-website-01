@@ -36,13 +36,6 @@ format:
 ✅ **Survey Data Analysis** – Insights into shipping behavior\
 ✅ **Visual Dashboards** – Graphs on shopping & delivery trends\
 ✅ **Interactive Reports** – Users can explore real-time insights
-
-------------------------------------------------------------------------
-
-# **Thank You!** 🎉
-
-💡 **Any questions? Let’s discuss!**
-
 ------------------------------------------------------------------------
 
 For now you can access the presentation by adjusting the URL below with your details
