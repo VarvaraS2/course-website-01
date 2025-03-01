@@ -3,17 +3,48 @@ title: "Survey Data Analysis"
 format: html
 ---
 
-## **Dashboard**
+This dataset was collected to analyze consumer awareness, shopping behaviors, and perceptions of global shipping logistics. The data reveals how consumers view fast delivery, ethical concerns, and the labor behind shipping operations.
 
-Below is the interactive **Studio dashboard** based on the survey data.
+**Dataset Overview**
 
-<iframe 
-    width="1200" 
-    height="1200" 
-    src="https://lookerstudio.google.com/embed/reporting/89454e1c-6658-42b7-9a92-517d8a90e9ed/page/nSmnE"
-    frameborder="0"
-    style="border:0"
-    allowfullscreen 
-    sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
+📦 Total Responses: 100 (Complete survey participants)
+
+🔢 Number of Questions: 8+
+
+📑 Categories Covered: Demographics (Age, Gender, Occupation) Shopping Frequency & Delivery Priorities Awareness of Shipping Labor Importance of Fast Delivery Delivery Delays & Frustration Who Consumers Blame for Delays Public Understanding of Global Shipping
+
+P**urpose of This Dataset**
+
+This dataset helps us understand how consumers interact with e-commerce and delivery services, highlighting the gap between their expectations and awareness of the logistics industry.
+
+🚢 **With this data, we can explore:**
+
+✅ How frequently people shop online
+
+✅ Whether they consider the labor behind shipping
+
+✅ What factors they prioritize (fast delivery vs. ethical sourcing)
+
+✅ How they react to delivery delays and who they blame
+
+✅ Their overall knowledge of global shipping operations
+
+📌 How This Data Will Be Used
+
+🛒 Consumer Awareness Gap: Exploring how many never consider the workers behind shipping.
+
+⚡ Fast vs. Ethical Delivery: Analyzing whether people prioritize speed over ethical labor conditions.
+
+⏳ Delivery Delays & Frustration: Understanding how consumer patience and frustration vary.
+
+❌ Who They Blame for Delays: Seeing if consumers recognize maritime challenges or blame retailers.
+
+🌍 Shipping Transparency: Identifying opportunities for educating consumers on ethical logistics.
+
+**Below the Dataset**
+
+<iframe width="1200" height="1200" src="https://lookerstudio.google.com/embed/reporting/a704239e-d3f0-4216-abdd-607e12091f2b/page/p1W2E" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
+
 </iframe>
 
+### 

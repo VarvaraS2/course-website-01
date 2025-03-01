@@ -1,18 +1,88 @@
-/* css styles */
-/* Background styling */
+/* General Styles */
 body {
-    background: linear-gradient(135deg, #e0f7fa, #ffffff); /* Light blue to white gradient */
-    font-family: Arial, sans-serif;  /* Clean, modern font */
-    color: #333333;  /* Dark gray text for readability */
+    font-family: 'Lora', serif;
+    color: #333;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
 }
 
-/* Optional: Add padding to the content */
-main {
+/* Full-Width Video Background */
+.hero {
+    position: relative;
+    height: 90vh;
+    overflow: hidden;
+}
+
+.bg-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+/* Dark Overlay for Readability */
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay for contrast */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
     padding: 20px;
-    max-width: 800px;
-    margin: 0 auto;
-    background: #ffffff;  /* White background for content */
-    border-radius: 12px;  /* Rounded corners */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);  /* Soft shadow for depth */
 }
 
+.overlay h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.overlay p {
+    font-size: 1.5rem;
+    max-width: 800px;
+    margin-bottom: 20px;
+}
+
+/* CTA Button */
+.cta-button {
+    display: inline-block;
+    background: #FF6B35;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+.cta-button:hover {
+    background: #E65A2F;
+}
+
+/* Other Sections */
+.about, .key-insights {
+    text-align: center;
+    padding: 50px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .overlay h1 {
+        font-size: 2rem;
+    }
+    .overlay p {
+        font-size: 1.2rem;
+    }
+}

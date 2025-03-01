@@ -10,21 +10,21 @@ website:
       - href: index.qmd
         text: Home
       - href: tab-one/tab-one-index.qmd
-        text: Tab title
-      - href: tab-presentation/presentation-index.qmd
-        text: Presentations        
+        text: About
       - href: tab-iframe/iframe-index.qmd
         text: Shipping survey
       - href: survey_data.qmd 
         text: "Survey Data"
-    logo: images/logo_tepak.png
-       
+      - href: tab-presentation/presentation-index.qmd
+        text: Presentation 
+    logo: images/blue wave water ocean logo vector | vastard.jpg
+
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+    theme: flatly
+    css: styles.css  # Link to the external CSS file
+
+
+  
 
 

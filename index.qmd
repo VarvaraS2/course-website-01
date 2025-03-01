@@ -1,11 +1,19 @@
 ---
 title: "Welcome to The Human Side of Shipping"
+editor: 
+  markdown: 
+    wrap: 100
 ---
-Have you ever thought about how your favorite things, like your morning coffee or a new pair of sneakers, actually get to you? 
 
-Behind every delivery is a group of people working tirelessly at sea, spending months away from their families to keep the world moving. 
+<video width="800" height="450" autoplay loop muted playsinline>
 
-This project is about them, the invisible hands who face storms, long hours, and tough conditions so that we can enjoy the things we often take for granted. 
+<source src="Videos/video2.mp4" type="video/mp4">
 
-As you explore, take a moment to appreciate the lives and stories behind every package that arrives at your door.
+Your browser does not support the video tag. </video>
 
+format: html: theme: flatly css: \| .intro-container { max-width: 1117500px; margin: auto;
+text-align: left; padding: 50px 20px; font-family: 'Lora', serif; }
+
+.intro-container h1 { font-size: 3rem; font-weight: bold; color: #002D62; /\* Dark navy \*/ }
+
+.intro-container p { font-size: 1.25rem; line-height: 1.8; color: #333; }

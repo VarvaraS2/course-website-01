@@ -1,48 +1,172 @@
 ---
 title: "Final Project Presentation"
 author: "Varvara Sarmalli"
-date: "2025-02-08"
 format:
   revealjs:
     theme: moon
     transition: fade
     slide-number: true
     toc: true
+    toc-depth: 1  # Controls how deep ToC levels go
+    controls: true  # Adds navigation buttons
+    menu: true  # Enables sidebar navigation
     progress: true
     footer: "Final Project - Shipping Insights"
 ---
 
-# **The Human Side of Shipping** 🚢
+# **The Human Side of Shipping**
 
-## Understanding the Impact of Global Logistics
-
-📌 **Author:** Varvara Sarmalli\
-📌 **Date:** February 2025\
-📌 **University:** CUT - Master's in Experiential Digital Marketing
-
-------------------------------------------------------------------------
++:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 📌 **Author:** Varvara Sarmalli\                                                                                                                                                          |
+| 📌 **Date:** March 2025\                                                                                                                                                                  |
+| 📌 **Course** MSc. Course on ‘Data-driven Communication: 📌 **University:** CUT - Master's in Experiential Digital Marketing 📌 **Instructors** Dr. Fernando Mendez & Dr. Costas Tziouvas |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 # **What is this Project About**
 
-📦 Analyzing **public perceptions of shipping** \
+📦 Analyzing **public perceptions of shipping**\
 📊 Creating an **interactive website/dashboard**\
 🛍️ Understanding **how people shop online**\
 🚚 Investigating **delivery delay experiences**
 
+# **Introduction**
+
+-   🌍 Few consider the **complex logistics** behind daily deliveries.\
+-   🚢 **Seafarers spend months at sea** to ensure smooth global trade.\
+-   📊 This project explores **public awareness, shopping trends, and delivery expectations**.\
+-   🔎 Through **data analysis & an interactive website**, we reveal the **human side of shipping**.
+
+# **Key Insights from the Data**
+
+## 🚢 Consumer Awareness Gap
+
+-   📊 Key Data Points:
+
+    ::: nonincremental
+    -   52% of respondents admitted to never considering the people behind shipping.
+    -   49% are unaware of how global shipping logistics work.
+    -   Despite frequent online shopping (30% shop “Always”, 23% shop “Occasionally”), most consumers don’t connect their purchases to maritime labor efforts.\
+        The majority of consumers prioritize convenience but lack awareness of the labor behind global shipping.
+    :::
+
 ------------------------------------------------------------------------
 
-# **Key Features of the Website**
+## **Shifting Perspectives on Maritime Labor** 🌍
 
-✅ **Survey Data Analysis** – Insights into shipping behavior\
-✅ **Visual Dashboards** – Graphs on shopping & delivery trends\
-✅ **Interactive Reports** – Users can explore real-time insights
+::: nonincremental
+-   **When informed about maritime work realities, 51% of respondents expressed ethical concerns and increased appreciation for shipping workers.**
+-   **Delivery experiences shape perspectives**. Consumers who had faced delays were **more likely to consider shipping labor issues** than those who had never experienced disruptions.
+:::
+
 ------------------------------------------------------------------------
+
+## **Shopping Frequency & Delivery Priorities** 🛍️
+
+-   **30% shop online "Always", 23% shop “Occasionally”** → Online shopping is a **major habit**.
+
+::: nonincremental
+-   **53% of consumers have experienced delivery delays** but only **a small fraction** connect these delays to **global shipping challenges**.
+
+-   Even though **consumers rely on online shopping**, **their understanding of delivery complexities is limited**.
+:::
+
+------------------------------------------------------------------------
+
+## **Fast Delivery vs Ethical Awareness** ⚡
+
+-   **Consumer Priorities Differ**:
+
+    ::: nonincremental
+    -   **39% of respondents consider fast delivery highly important.**
+    :::
+
+    -   **Only 16% rank fast delivery as "Not Important".**
+
+    -   **Consumers who learned about maritime labor were 2x more likely to accept slower, ethical shipping options.**
+
+------------------------------------------------------------------------
+
+## **Delivery Delays & Consumer Frustration** ⏳
+
+-   **53% of respondents have experienced delivery delays.**
+
+::: nonincremental
+-   **Among those who faced delays, 60% blamed retailers or courier companies.**
+
+-   **Only a small percentage recognized maritime labor shortages as a contributing factor.**
+:::
+
+------------------------------------------------------------------------
+
+## **Who Do Consumers Blame?** ❌
+
+-   **🏢 45% blame retailers.**
+
+<!-- -->
+
+-   **🚚 38% blame courier companies.**
+
+-   **🌊 Only 17% recognize global shipping delays as a factor.**
+
+-   A **majority of consumers focus on the last-mile delivery** rather than considering the **global shipping process that brings goods to their region**.
+
+------------------------------------------------------------------------
+
+## **The Public’s Understanding of Global Shipping** 🌐
+
+::: nonincremental
+-   **49% are unaware of global shipping logistics.**
+
+-   **Only 26% say they "fully understand" how supply chains work.**
+
+-   **Consumers who reported awareness of shipping labor were 3x more likely to express concern for worker conditions.**
+
+-   A **lack of transparency in supply chains leads to uninformed consumer opinions.** More education could **change behaviors and increase support for ethical logistics**.
+:::
+
+------------------------------------------------------------------------
+
+# **Conclusion and Broader Implications**
+
+## 🌍 The Need for Transparency
+
+::: nonincremental
+-   **E-commerce is growing rapidly**, but only **51% of respondents have considered how shipping workers impact their deliveries.**
+
+<!-- -->
+
+-   **Consumers who learned about maritime labor were more likely to demand fair working conditions.**
+:::
+
+## **Encouraging Ethical Consumer Behavior** 🛒
+
+-   <div>
+
+    -   **Consumers who acknowledged the human side of shipping were 40% more likely to support fair labor policies.**
+
+    -   **A majority of informed shoppers expressed willingness to wait longer for deliveries if it meant better conditions for workers.Opportunities for Industry Collaboration** 🤝
+
+    </div>
+
+## **Shipping and Delivery Perceptions** 📦
+
+::: nonincremental
+-   **🚀 39% prioritize fast delivery.**
+-   **⏳ 25% are willing to wait longer when aware of shipping labor challenges.Consumer Frustration with Delivery Delays** ⏳
+:::
+
+## **Final Thoughts: A Call to Action** 🚀
+
+::: nonincremental
+-   **Consumers with greater shipping awareness were more likely to support worker rights and ethical policies.**
+
+-   **Transparency leads to more ethical purchasing decisions and labor improvements.**
+
+-   Increasing consumer knowledge about the shipping industry can drive ethical trade and better labor conditions.
+:::
+
+# **The Links**
 
 For now you can access the presentation by adjusting the URL below with your details
 
 https://github.com/VarvaraS2/course-website-01.git
-
-Simply change my capitalized text for your: i) your github username\
-ii) the name of your github repo then copy the URL and paste it to visit the webpage.
-
-The adjusted URL above should take you to an example of a simple Quarto presentation.
