@@ -22,7 +22,7 @@ website:
 format:
   html:
     theme: flatly
-    css: styles.css  # Link to the external CSS file
+    css: styles.css
 
 
   

@@ -1,4 +1,8 @@
 ---
+
+---
+
+---
 title: "About"
 ---
 
@@ -6,12 +10,10 @@ Ever wondered who brings your morning coffee, your favorite sneakers, or the lat
 
 Behind every package, there’s a journey at sea that is filled with hard work, sacrifice, and untold stories.
 
-![](images/Safe Horizons_ Happy International Women in Maritime Day-01.jpg){fig-align="center" width="574"}
-
 This project is more than just a data analysis but it's a reminder that behind every order placed online, there are real people navigating the vast oceans to make it possible.
 
 It challenges consumers to think beyond convenience and engage with the reality of global supply chains.
 
 As we move toward a future of ever-increasing e-commerce, the question remains: how can we, as consumers, ensure that the invisible workforce of shipping is recognized, valued, and protected?
 
-![](images/Day of the Seafarer 2024_ Essential Safety Tips.jpg){fig-align="center" width="520"}
+![](/images/image3.jpeg)

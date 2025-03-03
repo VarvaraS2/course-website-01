@@ -81,77 +81,77 @@
     "href": "tab-one/tab-one-index.html",
     "title": "About",
     "section": "",
-    "text": "Ever wondered who brings your morning coffee, your favorite sneakers, or the latest gadget to your doorstep?\nBehind every package, there’s a journey at sea that is filled with hard work, sacrifice, and untold stories.\n\n\n\n\n\nThis project is more than just a data analysis but it’s a reminder that behind every order placed online, there are real people navigating the vast oceans to make it possible.\nIt challenges consumers to think beyond convenience and engage with the reality of global supply chains.\nAs we move toward a future of ever-increasing e-commerce, the question remains: how can we, as consumers, ensure that the invisible workforce of shipping is recognized, valued, and protected?"
+    "text": "Ever wondered who brings your morning coffee, your favorite sneakers, or the latest gadget to your doorstep?\nBehind every package, there’s a journey at sea that is filled with hard work, sacrifice, and untold stories.\nThis project is more than just a data analysis but it’s a reminder that behind every order placed online, there are real people navigating the vast oceans to make it possible.\nIt challenges consumers to think beyond convenience and engage with the reality of global supply chains.\nAs we move toward a future of ever-increasing e-commerce, the question remains: how can we, as consumers, ensure that the invisible workforce of shipping is recognized, valued, and protected?"
   },
   {
     "objectID": "tab-iframe/iframe-index.html",
     "href": "tab-iframe/iframe-index.html",
     "title": "Shipping Survey",
     "section": "",
-    "text": "Please take a moment to complete this quick survey and share your thoughts on shipping!\n\nLoading…"
+    "text": "Please take a moment to complete this quick survey and share your thoughts on shipping!\n\nΦόρτωση…"
   },
   {
     "objectID": "survey_data.html",
     "href": "survey_data.html",
     "title": "Survey Data Analysis",
     "section": "",
-    "text": "This dataset was collected to analyze consumer awareness, shopping behaviors, and perceptions of global shipping logistics. The data reveals how consumers view fast delivery, ethical concerns, and the labor behind shipping operations.\nDataset Overview\n📦 Total Responses: 100 (Complete survey participants)\n🔢 Number of Questions: 8+\n📑 Categories Covered: Demographics (Age, Gender, Occupation) Shopping Frequency & Delivery Priorities Awareness of Shipping Labor Importance of Fast Delivery Delivery Delays & Frustration Who Consumers Blame for Delays Public Understanding of Global Shipping\nPurpose of This Dataset\nThis dataset helps us understand how consumers interact with e-commerce and delivery services, highlighting the gap between their expectations and awareness of the logistics industry.\n🚢 With this data, we can explore:\n✅ How frequently people shop online\n✅ Whether they consider the labor behind shipping\n✅ What factors they prioritize (fast delivery vs. ethical sourcing)\n✅ How they react to delivery delays and who they blame\n✅ Their overall knowledge of global shipping operations\n📌 How This Data Will Be Used\n🛒 Consumer Awareness Gap: Exploring how many never consider the workers behind shipping.\n⚡ Fast vs. Ethical Delivery: Analyzing whether people prioritize speed over ethical labor conditions.\n⏳ Delivery Delays & Frustration: Understanding how consumer patience and frustration vary.\n❌ Who They Blame for Delays: Seeing if consumers recognize maritime challenges or blame retailers.\n🌍 Shipping Transparency: Identifying opportunities for educating consumers on ethical logistics.\nBelow the Dataset"
+    "text": "This dataset was collected to analyze consumer awareness, shopping behaviors, and perceptions of global shipping logistics. The data reveals how consumers view fast delivery, ethical concerns, and the labor behind shipping operations.\nDataset Overview\nTotal Responses: 100 (Complete survey participants)\nNumber of Questions: 10+\nCategories Covered:\nDemographics: Age, Gender, Occupation\nShopping Frequency & Delivery Priorities\nAwareness of Shipping Labor\nImportance of Fast Delivery\nDelivery Delays & Frustration\nWho Consumers Blame for Delays\nPublic Understanding of Global Shipping\nConsumer Perceptions of Retailers, Couriers, and Logistics\nPurpose of This Dataset\nThis dataset helps us understand how consumers interact with e-commerce and delivery services, highlighting the gap between their expectations and awareness of the logistics industry.\nWith this data, we can explore:\n✅ How frequently people shop online\n✅ Whether they consider the labor behind shipping\n✅ What factors they prioritize (fast delivery vs. ethical sourcing)\n✅ How they react to delivery delays and who they blame (retailers, couriers, or global shipping challenges)\n✅ Their overall knowledge of global shipping operations\nHow This Data Will Be Used\n🛒 Consumer Awareness Gap: Exploring how many never consider the workers behind shipping.\n⚡ Fast vs. Ethical Delivery: Analyzing whether people prioritize speed over ethical labor conditions.\n⏳ Delivery Delays & Frustration: Understanding how consumer patience and frustration vary.\n❌ Who They Blame for Delays: Examining whether consumers recognize maritime challenges or hold retailers and couriers accountable.\n🌍 Shipping Transparency: Identifying opportunities for educating consumers on ethical logistics and global supply chains.\nBelow the Dataset"
   },
   {
     "objectID": "tab-presentation/presentation-index.html#consumer-awareness-gap",
     "href": "tab-presentation/presentation-index.html#consumer-awareness-gap",
     "title": "Final Project Presentation",
     "section": "🚢 Consumer Awareness Gap",
-    "text": "🚢 Consumer Awareness Gap\n\n📊 Key Data Points:\n\n\n52% of respondents admitted to never considering the people behind shipping.\n49% are unaware of how global shipping logistics work.\nDespite frequent online shopping (30% shop “Always”, 23% shop “Occasionally”), most consumers don’t connect their purchases to maritime labor efforts.\nThe majority of consumers prioritize convenience but lack awareness of the labor behind global shipping."
+    "text": "🚢 Consumer Awareness Gap\n\n📊 Key Data Points:\n\n52% of respondents admitted to never considering the people behind shipping.\n48% are unaware of how global shipping logistics work."
   },
   {
     "objectID": "tab-presentation/presentation-index.html#shifting-perspectives-on-maritime-labor",
     "href": "tab-presentation/presentation-index.html#shifting-perspectives-on-maritime-labor",
     "title": "Final Project Presentation",
     "section": "Shifting Perspectives on Maritime Labor 🌍",
-    "text": "Shifting Perspectives on Maritime Labor 🌍\n\n\nWhen informed about maritime work realities, 51% of respondents expressed ethical concerns and increased appreciation for shipping workers.\nDelivery experiences shape perspectives. Consumers who had faced delays were more likely to consider shipping labor issues than those who had never experienced disruptions."
+    "text": "Shifting Perspectives on Maritime Labor 🌍\n\nWhen informed about maritime work realities, 51% of respondents expressed ethical concerns and increased appreciation for shipping workers.\nDelivery experiences shape perspectives. Consumers who had faced delays were more likely to consider shipping labor issues than those who had never experienced disruptions."
   },
   {
-    "objectID": "tab-presentation/presentation-index.html#shopping-frequency-delivery-priorities",
-    "href": "tab-presentation/presentation-index.html#shopping-frequency-delivery-priorities",
+    "objectID": "tab-presentation/presentation-index.html#shopping-frequency",
+    "href": "tab-presentation/presentation-index.html#shopping-frequency",
     "title": "Final Project Presentation",
-    "section": "Shopping Frequency & Delivery Priorities 🛍️",
-    "text": "Shopping Frequency & Delivery Priorities 🛍️\n\n30% shop online “Always”, 23% shop “Occasionally” → Online shopping is a major habit.\n\n\n\n53% of consumers have experienced delivery delays but only a small fraction connect these delays to global shipping challenges.\nEven though consumers rely on online shopping, their understanding of delivery complexities is limited."
+    "section": "Shopping Frequency 🛍️",
+    "text": "Shopping Frequency 🛍️\n\n30% shop online “Always”, 23% shop “Occasionally” → Online shopping is a major habit."
   },
   {
     "objectID": "tab-presentation/presentation-index.html#fast-delivery-vs-ethical-awareness",
     "href": "tab-presentation/presentation-index.html#fast-delivery-vs-ethical-awareness",
     "title": "Final Project Presentation",
     "section": "Fast Delivery vs Ethical Awareness ⚡",
-    "text": "Fast Delivery vs Ethical Awareness ⚡\n\nConsumer Priorities Differ:\n\n\n39% of respondents consider fast delivery highly important.\n\n\n\nOnly 16% rank fast delivery as “Not Important”.\nConsumers who learned about maritime labor were 2x more likely to accept slower, ethical shipping options."
+    "text": "Fast Delivery vs Ethical Awareness ⚡\n\nConsumer Priorities Differ:\n\n39% of respondents consider fast delivery highly important.\nOnly 16% rank fast delivery as “Not Important”.\nConsumers who learned about maritime labor were 2x more likely to accept slower, ethical shipping options."
   },
   {
     "objectID": "tab-presentation/presentation-index.html#delivery-delays-consumer-frustration",
     "href": "tab-presentation/presentation-index.html#delivery-delays-consumer-frustration",
     "title": "Final Project Presentation",
     "section": "Delivery Delays & Consumer Frustration ⏳",
-    "text": "Delivery Delays & Consumer Frustration ⏳\n\n53% of respondents have experienced delivery delays.\n\n\n\nAmong those who faced delays, 60% blamed retailers or courier companies.\nOnly a small percentage recognized maritime labor shortages as a contributing factor."
+    "text": "Delivery Delays & Consumer Frustration ⏳\n\n53% of respondents have experienced delivery delays.\nAmong those who faced delays, 60% blamed retailers or courier companies.\nOnly a small percentage recognized maritime labor shortages as a contributing factor. :::"
   },
   {
     "objectID": "tab-presentation/presentation-index.html#who-do-consumers-blame",
     "href": "tab-presentation/presentation-index.html#who-do-consumers-blame",
     "title": "Final Project Presentation",
     "section": "Who Do Consumers Blame? ❌",
-    "text": "Who Do Consumers Blame? ❌\n\n🏢 45% blame retailers.\n\n\n\n🚚 38% blame courier companies.\n🌊 Only 17% recognize global shipping delays as a factor.\nA majority of consumers focus on the last-mile delivery rather than considering the global shipping process that brings goods to their region."
+    "text": "Who Do Consumers Blame? ❌\n\n🏢 45% blame retailers.\n🚚 38% blame courier companies.\n🌊 Only 17% recognize global shipping delays as a factor.\nA majority of consumers focus on the last-mile delivery rather than considering the global shipping process that brings goods to their region."
   },
   {
     "objectID": "tab-presentation/presentation-index.html#the-publics-understanding-of-global-shipping",
     "href": "tab-presentation/presentation-index.html#the-publics-understanding-of-global-shipping",
     "title": "Final Project Presentation",
     "section": "The Public’s Understanding of Global Shipping 🌐",
-    "text": "The Public’s Understanding of Global Shipping 🌐\n\n\n49% are unaware of global shipping logistics.\nOnly 26% say they “fully understand” how supply chains work.\nConsumers who reported awareness of shipping labor were 3x more likely to express concern for worker conditions.\nA lack of transparency in supply chains leads to uninformed consumer opinions. More education could change behaviors and increase support for ethical logistics."
+    "text": "The Public’s Understanding of Global Shipping 🌐\n\n51% are unaware of global shipping logistics.\nOnly 49% say they “fully understand” how supply chains work.\nConsumers who reported awareness of shipping labor were 3x more likely to express concern for worker conditions.\nA lack of transparency in supply chains leads to uninformed consumer opinions. More education could change behaviors and increase support for ethical logistics. :::"
   },
   {
     "objectID": "tab-presentation/presentation-index.html#the-need-for-transparency",
     "href": "tab-presentation/presentation-index.html#the-need-for-transparency",
     "title": "Final Project Presentation",
     "section": "🌍 The Need for Transparency",
-    "text": "🌍 The Need for Transparency\n\n\nE-commerce is growing rapidly, but only 51% of respondents have considered how shipping workers impact their deliveries.\n\n\n\nConsumers who learned about maritime labor were more likely to demand fair working conditions."
+    "text": "🌍 The Need for Transparency\n\nE-commerce is growing rapidly, but only 51% of respondents have considered how shipping workers impact their deliveries.\nConsumers who learned about maritime labor were more likely to demand fair working conditions. :::"
   },
   {
     "objectID": "tab-presentation/presentation-index.html#encouraging-ethical-consumer-behavior",
@@ -165,13 +165,13 @@
     "href": "tab-presentation/presentation-index.html#shipping-and-delivery-perceptions",
     "title": "Final Project Presentation",
     "section": "Shipping and Delivery Perceptions 📦",
-    "text": "Shipping and Delivery Perceptions 📦\n\n\n🚀 39% prioritize fast delivery.\n⏳ 25% are willing to wait longer when aware of shipping labor challenges.Consumer Frustration with Delivery Delays ⏳"
+    "text": "Shipping and Delivery Perceptions 📦\n\n🚀 16% prioritize fast delivery.\n⏳ and 16% are willing to wait longer."
   },
   {
     "objectID": "tab-presentation/presentation-index.html#final-thoughts-a-call-to-action",
     "href": "tab-presentation/presentation-index.html#final-thoughts-a-call-to-action",
     "title": "Final Project Presentation",
     "section": "Final Thoughts: A Call to Action 🚀",
-    "text": "Final Thoughts: A Call to Action 🚀\n\n\nConsumers with greater shipping awareness were more likely to support worker rights and ethical policies.\nTransparency leads to more ethical purchasing decisions and labor improvements.\nIncreasing consumer knowledge about the shipping industry can drive ethical trade and better labor conditions."
+    "text": "Final Thoughts: A Call to Action 🚀\n\nConsumers with greater shipping awareness were more likely to support worker rights and ethical policies.\nTransparency leads to more ethical purchasing decisions and labor improvements.\nIncreasing consumer knowledge about the shipping industry can drive ethical trade and better labor conditions."
   }
 ]
